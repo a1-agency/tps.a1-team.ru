@@ -1,6 +1,6 @@
 body {
     font-family: 'Chela One', cursive;
-    margin: 0;
+    margin: 0 auto;
 }
 
 *,
@@ -20,7 +20,7 @@ h6 {
 
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1800px;
     margin: 0 auto;
   }
 
@@ -36,6 +36,7 @@ h6 {
   }
 .site__item--text{
     transform: translateY(15%);
+    padding-left: 20px;
 }
 .logo{
     text-align: center;
@@ -43,6 +44,7 @@ h6 {
 }
 
   .text{   
+    
     font-size: 24px;
     color: #000;
     text-transform: uppercase;
@@ -55,6 +57,10 @@ h6 {
 .text:hover {
     color: #00BFFF;
     text-decoration: underline;
+}
+
+.site__item--img{
+margin: 0;
 }
 .social{
     padding-top: 60px;
