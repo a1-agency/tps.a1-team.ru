@@ -46,10 +46,7 @@ h6 {
     text-align: center;
     padding-top: 30px;
 }
-.social_facebook {
-    /* height: 50px;
-    padding-top: 20px; */
-    
+.social_facebook {  
     width: 40px;
     height: 40px;
     background-color: #fff;
@@ -60,5 +57,4 @@ h6 {
 
 .social_facebook:hover {
     background-color: blueviolet;
-}
 }
