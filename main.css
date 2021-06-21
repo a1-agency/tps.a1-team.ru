@@ -49,7 +49,7 @@ h6 {
     border-bottom-color: rgb(81, 83, 105);
 }
 .pdf:last-child{
-    border-bottom: none;
+    border-bottom-width: 10px;
 }
   .text{   
     
