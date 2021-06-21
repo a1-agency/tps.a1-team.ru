@@ -44,13 +44,8 @@ h6 {
 }
 .pdf {
     padding-bottom: 25px;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-bottom-color: rgb(81, 83, 105);
 }
-.pdf:last-child{
-    border-bottom-width: 10px;
-}
+
   .text{   
     
     font-size: 24px;
